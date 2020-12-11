@@ -4,7 +4,9 @@
   "description": "Finnish work pension - Suomalainen työeläke",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "lint": "standard *.js",
+    "test": "node test.js",
+    "release": "npm run lint && npm test && npm publish"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,7 @@
   "author": "Akseli Palén <akseli.palen@gmail.com>",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
+    "standard": "^16.0.3",
     "tape": "^5.0.1"
   }
 }
