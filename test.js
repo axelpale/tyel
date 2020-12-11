@@ -18,7 +18,6 @@ test('perusProsentti', t => {
     tyel.perusProsentti(25, '202001-01')
   }, /päivämäärä/, 'rakenteellisesti epäkelpo päivämäärä')
 
-
   t.throws(() => {
     tyel.perusProsentti(25, '')
   }, /päivämäärä/, 'tyhjä päivämäärä')
