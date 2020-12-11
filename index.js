@@ -1,4 +1,4 @@
-// tyoelakemaksu
+// tyel
 // Author: Akseli Palén <akseli.palen@gmail.com>
 // License: GPL-3.0
 
