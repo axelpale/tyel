@@ -1,5 +1,7 @@
 # tyel
 
+![logo](doc/tyel-logo-512x192.png)
+
 Vapaa suomalainen työeläkemaksujen prosentit kertova funktiokirjasto.
 
 Esimerkkinä 32 vuotiaan työeläkemaksun prosenttiosuus 11.12.2020:
