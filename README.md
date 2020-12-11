@@ -60,7 +60,8 @@ Palauttaa prosenttiluvun, esimerkiksi `18.15`
 
 ## Lähteet
 
-- [palkanlaskijanopas.fi](https://palkanlaskijanopas.fi/taulukot/palkkahallinnon-tarkeat-luvut/palkkahallinnon-tarkeat-luvut-2020/)
+- [palkanlaskijanopas.fi: Palkkahallinnon tärkeät luvut 2020](https://palkanlaskijanopas.fi/taulukot/palkkahallinnon-tarkeat-luvut/palkkahallinnon-tarkeat-luvut-2020/)
+- [palkka.fi: Palkanlaskennan parametritiedot](https://www.palkka.fi/Koti/Tiedote/PalkanlaskennanParametritiedot)
 
 ## Vastuuvapauslauseke
 
