@@ -1,18 +1,18 @@
 {
-  "name": "tyoelakemaksu",
+  "name": "tyel",
   "version": "0.0.1",
-  "description": "Finnish work pension shares",
+  "description": "Finnish work pension - Suomalainen työeläke",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axelpale/tyoelakemaksu.git"
+    "url": "git+https://github.com/axelpale/tyel.git"
   },
-  "homepage": "https://github.com/axelpale/tyoelakemaksu",
+  "homepage": "https://github.com/axelpale/tyel",
   "bugs": {
-    "url": "https://github.com/axelpale/tyoelakemaksu/issues"
+    "url": "https://github.com/axelpale/tyel/issues"
   },
   "keywords": [
     "work",
