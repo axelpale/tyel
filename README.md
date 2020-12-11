@@ -2,6 +2,11 @@
 
 Vapaa suomalainen työeläkemaksujen prosentit kertova funktiokirjasto.
 
+Esimerkkinä 32 vuotiaan työeläkemaksun prosenttiosuus 11.12.2020:
+
+    > tyel.tyontekijanProsentti(32, '2020-12-11')
+    7.15
+
 Jos haluat viedä Suomea eteenpäin ja osallistua kehitystyöhön niin luo uusi [issue](https://github.com/axelpale/tyel/issues) tai [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 ## Asennus
