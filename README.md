@@ -2,9 +2,9 @@
 
 ![logo](doc/tyel-logo-512x192.png)
 
-Vapaa suomalainen työeläkemaksujen prosentit kertova funktiokirjasto.
+Vapaa suomalainen työeläkemaksujen prosentit laskeva ohjelmakirjasto. Kirjasto koostuu funktioista, jotka pyrkivät työkaluina toimimisen lisäksi esittämään työeläkkeen monimutkaiset säädökset yksiselitteisellä ohjelmointikielellä monitulkintaisen luonnollisen kielen sijaan.
 
-Esimerkkinä 32 vuotiaan työeläkemaksun prosenttiosuus 11.12.2020:
+Esimerkkinä käytöstä 32 vuotiaan työeläkemaksun prosenttiosuus 11.12.2020:
 
     > tyel.tyontekijanProsentti(32, '2020-12-11')
     7.15
