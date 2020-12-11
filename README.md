@@ -17,12 +17,13 @@ JavaScript &amp; Node.js:
 
 ## Rajapinta
 
-### tyel.perusProsentti(pvm)
+### tyel.perusProsentti(ika, pvm)
 
 TyEL-perusprosentti sisältää sekä työntekijän että työnantajan osuuden.
 
 Parametrit:
 
+- `ika`: Kokonaisluku. Työntekijän ikä vuosissa.
 - `pvm`: Päivämäärä merkkijonona muodossa VVVV-KK-PP, esim `'2020-12-11'`
 
 Heittää virheen mikäli päivämäärä on epäkelpo tai päivämäärälle ei löydy säädöstä.
@@ -48,7 +49,7 @@ Työnantajan maksettavaksi jäävä TyEL-prosenttiosuus, eli käytännössä TyE
 
 Parametrit:
 
-- `ika`: Kokonaisluku. Työntekijän ikä vuosissa.
+- `tyontekijanIka`: Kokonaisluku. Työntekijän ikä vuosissa.
 - `pvm`: Palkan päivämäärä merkkijonona muodossa VVVV-KK-PP, esim `'2020-12-11'`
 
 Heittää virheen mikäli päivämäärä on epäkelpo tai päivämäärälle ei löydy säädöstä.
