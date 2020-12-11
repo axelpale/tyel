@@ -1,0 +1,29 @@
+{
+  "name": "tyoelakemaksu",
+  "version": "0.0.1",
+  "description": "Finnish work pension shares",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelpale/tyoelakemaksu.git"
+  },
+  "homepage": "https://github.com/axelpale/tyoelakemaksu",
+  "bugs": {
+    "url": "https://github.com/axelpale/tyoelakemaksu/issues"
+  },
+  "keywords": [
+    "work",
+    "pension",
+    "salary",
+    "suomi",
+    "finland"
+  ],
+  "author": "Akseli Palén <akseli.palen@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "tape": "^5.0.1"
+  }
+}
